@@ -1,0 +1,57 @@
+body {
+    background-color: #1DE366;
+}
+
+#mainBox {
+    display: flex;
+}
+
+.box {
+    width: 230px;
+    height: 420px;
+    display: inline-block;
+    margin: 9px;
+    background-color: white;
+    border-color: white;
+    border-radius: 5px;
+    text-decoration-color: #1DE366;
+}
+
+h2 {
+    height: 10px;
+    text-align: center;
+    color: white;
+    font-weight: 900;
+}
+h3 {
+    text-align: center;
+    font-size: 19px;
+}
+img {
+    width: 230px;
+    height: 260;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+#button {
+    width: 210px;
+    height: 25px;
+    background-color: #007BFF;
+    border-radius: 3px;
+    border: none;
+    margin-left: 10px;
+}
+p {
+    margin-left: 10px;
+}
+.points {
+    color: #79BBF7;
+    line-height: 7px;
+    margin-top: 2px;
+}
+
+.para {
+    color: #85C68B;
+    padding-top: 2px;
+}
